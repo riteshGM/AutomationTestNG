@@ -1,0 +1,3 @@
+2017-08-17 17:34:39 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-17 17:34:42 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (691fe417-3c85-4549-a120-9cd66a23878f)
+2017-08-17 17:34:42 INFO  TestBase:130 - Test is Running in Local Machine

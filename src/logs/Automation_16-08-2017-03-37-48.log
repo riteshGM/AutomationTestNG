@@ -1,0 +1,4 @@
+2017-08-16 15:37:48 INFO  TestBase:103 - Browser Name Retrieved as :chrome
+2017-08-16 15:37:48 INFO  TestBase:103 - Browser Name Retrieved as :chrome
+2017-08-16 15:37:52 INFO  TestBase:228 - Value of WebDriver in TestBase ChromeDriver: chrome on XP (d4db54c2d1d10dbbb36325726b05d968)
+2017-08-16 15:37:52 INFO  TestBase:228 - Value of WebDriver in TestBase ChromeDriver: chrome on XP (9e4d0675b142e2d2eb78983fe7d21cff)

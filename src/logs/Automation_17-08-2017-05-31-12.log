@@ -1,0 +1,3 @@
+2017-08-17 17:31:12 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-17 17:31:23 INFO  TestBase:154 - Test is Running in Remote Machines
+2017-08-17 17:31:23 INFO  TestBase:156 - Value of WebDriver in TestBase RemoteWebDriver: internet explorer on WINDOWS (5b0c5284-721f-47b0-8a05-9ebbc52960c9)

@@ -1,0 +1,18 @@
+2017-08-18 12:53:56 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:53:56 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:53:56 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:53:56 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:53:59 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (9a98f2f2-efaf-4f84-b024-386a6b0e1191)
+2017-08-18 12:53:59 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (68794ff6-27d4-402b-b4f8-e6502ad782ee)
+2017-08-18 12:53:59 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:53:59 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:53:59 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (cbfdf6a2-6f87-4ab6-8ba7-bc077d11ea41)
+2017-08-18 12:53:59 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:53:59 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (541e8a29-9629-46ea-be69-b3391655ddfc)
+2017-08-18 12:53:59 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:53:59 INFO  TestCase02:99 - Exception Has Occurred During Test Case Execution
+2017-08-18 12:54:06 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution
+2017-08-18 12:54:07 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (541e8a29-9629-46ea-be69-b3391655ddfc)] -> css selector: a.login]
+2017-08-18 12:54:07 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution
+2017-08-18 12:54:09 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (9a98f2f2-efaf-4f84-b024-386a6b0e1191)] -> css selector: a.login]
+2017-08-18 12:54:09 INFO  TestCase02:99 - Exception Has Occurred During Test Case Execution

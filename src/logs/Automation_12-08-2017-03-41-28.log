@@ -1,0 +1,6 @@
+2017-08-12 03:41:29 INFO  TestBase:103 - Browser Name Retrieved as :firefox
+2017-08-12 03:41:29 INFO  TestBase:103 - Browser Name Retrieved as :firefox
+2017-08-12 03:41:30 ERROR TestBase:212 - Exception Occurred in Opening BroswerError forwarding the new session cannot find : Capabilities [{marionette=true, browserName=firefox, platformName=WINDOWS, version=, platform=WINDOWS}]
+Command duration or timeout: 0 milliseconds
+2017-08-12 03:41:30 ERROR TestBase:212 - Exception Occurred in Opening BroswerError forwarding the new session cannot find : Capabilities [{marionette=true, browserName=firefox, platformName=WINDOWS, version=, platform=WINDOWS}]
+Command duration or timeout: 0 milliseconds

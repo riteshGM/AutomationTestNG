@@ -1,0 +1,51 @@
+2017-08-18 12:58:55 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:58:55 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:58:55 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:58:55 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:59:01 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (dab576d1-b05c-4945-940d-ed06ac2c9ea7)
+2017-08-18 12:59:01 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (30bdd8bf-5b77-413d-8f15-b3dfed14aa69)
+2017-08-18 12:59:01 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:59:01 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (03b0506e-6e55-4726-89c0-da441b002965)
+2017-08-18 12:59:01 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)
+2017-08-18 12:59:01 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:59:01 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:59:01 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:59:01 INFO  TestCase02:99 - Exception Has Occurred During Test Case Execution
+2017-08-18 12:59:01 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============
+2017-08-18 12:59:12 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution
+2017-08-18 12:59:12 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============
+2017-08-18 12:59:13 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (03b0506e-6e55-4726-89c0-da441b002965)] -> css selector: a.login]
+2017-08-18 12:59:15 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: a.login]
+2017-08-18 12:59:17 INFO  SignInUIActions:15 - Entered Email ID to SignIn @:[[InternetExplorerDriver: internet explorer on WINDOWS (03b0506e-6e55-4726-89c0-da441b002965)] -> css selector: input#email]
+2017-08-18 12:59:18 INFO  SignInUIActions:18 - Entered Password to SignIn @:[[InternetExplorerDriver: internet explorer on WINDOWS (03b0506e-6e55-4726-89c0-da441b002965)] -> css selector: input#passwd]
+2017-08-18 12:59:18 INFO  CreateNewAccountUIActions:97 - Entered Email ID for Creating New Account @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#email_create]
+2017-08-18 12:59:20 INFO  CreateNewAccountUIActions:101 - Clicked On Submit Button To Create New Account @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: button#SubmitCreate]
+2017-08-18 12:59:21 INFO  SignInUIActions:20 - Clicked On Sign-In Button 
+2017-08-18 12:59:23 INFO  SignInUIActions:47 - Clicked On Women Category 
+2017-08-18 12:59:25 INFO  CreateNewAccountUIActions:21 - Clicked on Title @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#id_gender1]
+2017-08-18 12:59:27 INFO  SignInUIActions:27 - Clicked On Discover Out Stores Button 
+2017-08-18 12:59:28 INFO  SignInUIActions:35 - Entered Store Location @:[[InternetExplorerDriver: internet explorer on WINDOWS (03b0506e-6e55-4726-89c0-da441b002965)] -> css selector: input#addressInput]
+2017-08-18 12:59:29 INFO  SignInUIActions:38 - Clicked On Search Button for Location 
+2017-08-18 12:59:30 INFO  TestCase02:95 - Store Name Verified In Search Results as:Pembroke Pines
+2017-08-18 12:59:30 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============
+2017-08-18 12:59:31 INFO  CreateNewAccountUIActions:25 - Entered First Name @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#customer_firstname]
+2017-08-18 12:59:33 INFO  CreateNewAccountUIActions:28 - Entered Last Name @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#customer_lastname]
+2017-08-18 12:59:33 INFO  CreateNewAccountUIActions:32 - Entered Password @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#passwd]
+2017-08-18 12:59:36 INFO  CreateNewAccountUIActions:35 - Day Selected @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: select#days]
+2017-08-18 12:59:37 INFO  CreateNewAccountUIActions:40 - Month Selected @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: select#months]
+2017-08-18 12:59:38 INFO  CreateNewAccountUIActions:45 - Year Selected @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: select#years]
+2017-08-18 12:59:39 INFO  CreateNewAccountUIActions:48 - Entered Company Name @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#company]
+2017-08-18 12:59:43 INFO  CreateNewAccountUIActions:51 - Entered Address Line 1 @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#address1]
+2017-08-18 12:59:46 INFO  CreateNewAccountUIActions:55 - Entered Addres Line 2 @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#address2]
+2017-08-18 12:59:47 INFO  CreateNewAccountUIActions:58 - Entered City @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#city]
+2017-08-18 12:59:48 INFO  CreateNewAccountUIActions:62 - Selected State @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: select#id_state]
+2017-08-18 12:59:49 INFO  CreateNewAccountUIActions:66 - Entered Zip Code @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#postcode]
+2017-08-18 12:59:49 INFO  CreateNewAccountUIActions:70 - Selected Country @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: select#id_country]
+2017-08-18 12:59:50 INFO  CreateNewAccountUIActions:73 - Entered Additioanl Information @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: textarea#other]
+2017-08-18 12:59:51 INFO  CreateNewAccountUIActions:76 - Entered Home Phone @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#phone]
+2017-08-18 12:59:52 INFO  CreateNewAccountUIActions:79 - Entered Mobile Phone @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#phone_mobile]
+2017-08-18 12:59:53 INFO  CreateNewAccountUIActions:82 - Entered Address Alias @:[[InternetExplorerDriver: internet explorer on WINDOWS (48224d18-1d3c-457c-8d4f-c9cd654b1c28)] -> css selector: input#alias]
+2017-08-18 12:59:59 INFO  CreateNewAccountUIActions:91 - Clicked on Register Button To Create New Account
+2017-08-18 12:59:59 INFO  TestCase01:94 - Welcome Message Verified Successfully as :Welcome to your account. Here you can manage all of your personal information and orders. @:MyAccountPageObjects.getWelcomeMessage(driver)
+2017-08-18 12:59:59 INFO  TestCase01:95 - User was Able to Create Account Successfully @:testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath
+2017-08-18 12:59:59 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============

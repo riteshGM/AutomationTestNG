@@ -1,0 +1,12 @@
+2017-08-22 14:07:58 INFO  TestBase:103 - Browser Name Retrieved as :internet
+2017-08-22 14:07:58 INFO  TestBase:272 - Invalid Browser Name : Please check Config.properties
+2017-08-22 14:07:58 INFO  TestBase:103 - Browser Name Retrieved as :internet
+2017-08-22 14:07:58 INFO  TestBase:272 - Invalid Browser Name : Please check Config.properties
+2017-08-22 14:07:58 INFO  TestBase:103 - Browser Name Retrieved as :internet
+2017-08-22 14:07:58 INFO  TestBase:272 - Invalid Browser Name : Please check Config.properties
+2017-08-22 14:07:58 INFO  TestBase:103 - Browser Name Retrieved as :internet
+2017-08-22 14:07:58 INFO  TestBase:272 - Invalid Browser Name : Please check Config.properties
+2017-08-22 14:07:58 INFO  TestCase02:100 - Exception Occurred During Test Case Executionnull
+2017-08-22 14:07:58 INFO  TestCase02:100 - Exception Occurred During Test Case Executionnull
+2017-08-22 14:07:58 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution
+2017-08-22 14:07:58 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution

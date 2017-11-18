@@ -1,0 +1,6 @@
+2017-08-12 03:40:07 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-12 03:40:07 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-12 03:40:08 ERROR TestBase:163 - Exception Occurred in Opening BroswerError forwarding the new session cannot find : Capabilities [{ensureCleanSession=true, browserName=internet explorer, platformName=WINDOWS, version=, platform=WINDOWS}]
+Command duration or timeout: 0 milliseconds
+2017-08-12 03:40:08 ERROR TestBase:163 - Exception Occurred in Opening BroswerError forwarding the new session cannot find : Capabilities [{ensureCleanSession=true, browserName=internet explorer, platformName=WINDOWS, version=, platform=WINDOWS}]
+Command duration or timeout: 0 milliseconds

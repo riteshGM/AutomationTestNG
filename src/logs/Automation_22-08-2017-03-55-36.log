@@ -1,0 +1,8 @@
+2017-08-22 15:55:36 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 15:55:36 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 15:55:38 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (c9c1cc5f-0a83-48be-b013-332a65396496)
+2017-08-22 15:55:38 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (678dbd63-7d3c-42be-9ee7-500ee139c4f7)
+2017-08-22 15:55:38 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 15:55:38 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 15:55:38 INFO  TestCase02:100 - Exception Occurred During Test Case Execution
+2017-08-22 15:55:43 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution

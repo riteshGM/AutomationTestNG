@@ -1,0 +1,24 @@
+2017-08-18 12:17:34 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:17:34 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:17:34 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:17:34 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 12:17:48 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (71fd9125-95dc-4bb7-a078-b361a9f0ca97)
+2017-08-18 12:17:48 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (824ff04e-a669-467f-aab7-06321ee36bda)
+2017-08-18 12:17:48 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:17:48 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:17:48 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (d7eac534-613a-4071-adb7-be3bdaff6709)
+2017-08-18 12:17:48 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:17:48 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (469f917f-ed6a-4200-906a-d6ae9f2d917c)
+2017-08-18 12:17:48 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 12:17:58 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (d7eac534-613a-4071-adb7-be3bdaff6709)] -> css selector: a.login]
+2017-08-18 12:17:58 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (824ff04e-a669-467f-aab7-06321ee36bda)] -> css selector: a.login]
+2017-08-18 12:18:01 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (71fd9125-95dc-4bb7-a078-b361a9f0ca97)] -> css selector: a.login]
+2017-08-18 12:18:05 INFO  SignInUIActions:15 - Entered Email ID to SignIn @:[[InternetExplorerDriver: internet explorer on WINDOWS (71fd9125-95dc-4bb7-a078-b361a9f0ca97)] -> css selector: input#email]
+2017-08-18 12:18:06 INFO  SignInUIActions:18 - Entered Password to SignIn @:[[InternetExplorerDriver: internet explorer on WINDOWS (71fd9125-95dc-4bb7-a078-b361a9f0ca97)] -> css selector: input#passwd]
+2017-08-18 12:18:11 INFO  SignInUIActions:20 - Clicked On Sign-In Button 
+2017-08-18 12:18:14 INFO  SignInUIActions:47 - Clicked On Women Category 
+2017-08-18 12:18:17 INFO  SignInUIActions:27 - Clicked On Discover Out Stores Button 
+2017-08-18 12:18:19 INFO  SignInUIActions:35 - Entered Store Location @:[[InternetExplorerDriver: internet explorer on WINDOWS (71fd9125-95dc-4bb7-a078-b361a9f0ca97)] -> css selector: input#addressInput]
+2017-08-18 12:18:19 INFO  SignInUIActions:38 - Clicked On Search Button for Location 
+2017-08-18 12:18:21 INFO  TestCase02:95 - Store Name Verified In Search Results as:Pembroke Pines
+2017-08-18 12:18:21 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============

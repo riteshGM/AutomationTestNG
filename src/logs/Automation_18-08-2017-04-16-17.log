@@ -1,0 +1,45 @@
+2017-08-18 16:16:17 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 16:16:17 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 16:16:17 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 16:16:17 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-18 16:16:19 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (85a93778-f1e0-4828-be5b-8e2324ed3e0b)
+2017-08-18 16:16:19 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 16:16:19 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (63cd60d6-ad4b-4ae9-8a0a-0bfc6d746458)
+2017-08-18 16:16:19 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 16:16:19 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (3e3c0035-9dc3-445e-8147-2d21c6931ed9)
+2017-08-18 16:16:19 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 16:16:19 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (44e6d927-82f0-49ce-ae07-9ec36762aac0)
+2017-08-18 16:16:19 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-18 16:16:19 INFO  TestCase02:99 - Exception Has Occurred During Test Case Execution
+2017-08-18 16:16:19 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============
+2017-08-18 16:16:30 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (85a93778-f1e0-4828-be5b-8e2324ed3e0b)] -> css selector: a.login]
+2017-08-18 16:16:30 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution
+2017-08-18 16:16:30 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============
+2017-08-18 16:16:33 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (3e3c0035-9dc3-445e-8147-2d21c6931ed9)] -> css selector: a.login]
+2017-08-18 16:16:34 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (44e6d927-82f0-49ce-ae07-9ec36762aac0)] -> css selector: a.login]
+2017-08-18 16:16:38 INFO  CreateNewAccountUIActions:97 - Entered Email ID for Creating New Account @:[[InternetExplorerDriver: internet explorer on WINDOWS (3e3c0035-9dc3-445e-8147-2d21c6931ed9)] -> css selector: input#email_create]
+2017-08-18 16:16:39 INFO  CreateNewAccountUIActions:101 - Clicked On Submit Button To Create New Account @:[[InternetExplorerDriver: internet explorer on WINDOWS (3e3c0035-9dc3-445e-8147-2d21c6931ed9)] -> css selector: button#SubmitCreate]
+2017-08-18 16:16:40 INFO  SignInUIActions:15 - Entered Email ID to SignIn @:[[InternetExplorerDriver: internet explorer on WINDOWS (44e6d927-82f0-49ce-ae07-9ec36762aac0)] -> css selector: input#email]
+2017-08-18 16:16:43 INFO  SignInUIActions:18 - Entered Password to SignIn @:[[InternetExplorerDriver: internet explorer on WINDOWS (44e6d927-82f0-49ce-ae07-9ec36762aac0)] -> css selector: input#passwd]
+2017-08-18 16:16:47 INFO  SignInUIActions:20 - Clicked On Sign-In Button 
+2017-08-18 16:16:52 INFO  SignInUIActions:47 - Clicked On Women Category 
+2017-08-18 16:17:03 INFO  SignInUIActions:27 - Clicked On Discover Out Stores Button 
+2017-08-18 16:17:09 ERROR TestBase:482 - Exception Occurred ReSearching Element :By.cssSelector: input#id_gender1
+2017-08-18 16:17:09 INFO  TestBase:372 - Retrying To Find Element with location By.cssSelector: input#id_gender1
+2017-08-18 16:17:13 INFO  SignInUIActions:35 - Entered Store Location @:[[InternetExplorerDriver: internet explorer on WINDOWS (44e6d927-82f0-49ce-ae07-9ec36762aac0)] -> css selector: input#addressInput]
+2017-08-18 16:17:15 INFO  SignInUIActions:38 - Clicked On Search Button for Location 
+2017-08-18 16:17:17 INFO  TestCase02:95 - Store Name Verified In Search Results as:Pembroke Pines
+2017-08-18 16:17:17 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============
+2017-08-18 16:17:39 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#1
+2017-08-18 16:18:10 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#2
+2017-08-18 16:18:42 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#3
+2017-08-18 16:19:13 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#4
+2017-08-18 16:19:44 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#5
+2017-08-18 16:20:15 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#6
+2017-08-18 16:20:46 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#7
+2017-08-18 16:21:17 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#8
+2017-08-18 16:21:18 ERROR TestBase:393 - Could Not Find Element with Location By.cssSelector: input#id_gender1
+2017-08-18 16:21:18 ERROR TestBase:394 - Terminating Current Test Case Execution . .
+2017-08-18 16:21:18 ERROR TestBase:395 - Broswer Session Closed
+2017-08-18 16:21:18 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution
+2017-08-18 16:21:18 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============

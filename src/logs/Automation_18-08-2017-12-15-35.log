@@ -1,0 +1,74 @@
+2017-08-18 12:15:35 INFO  TestBase:103 - Browser Name Retrieved as :firefox
+2017-08-18 12:15:35 INFO  TestBase:103 - Browser Name Retrieved as :firefox
+2017-08-18 12:15:35 INFO  TestBase:103 - Browser Name Retrieved as :firefox
+2017-08-18 12:15:35 INFO  TestBase:103 - Browser Name Retrieved as :firefox
+2017-08-18 12:16:30 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[FirefoxDriver: firefox on WINDOWS (6c7a0276-dd94-42b8-9712-0b5124910c4d)] -> css selector: a.login]
+2017-08-18 12:16:32 INFO  SignInUIActions:15 - Entered Email ID to SignIn @:[[FirefoxDriver: firefox on WINDOWS (6c7a0276-dd94-42b8-9712-0b5124910c4d)] -> css selector: input#email]
+2017-08-18 12:16:32 INFO  SignInUIActions:18 - Entered Password to SignIn @:[[FirefoxDriver: firefox on WINDOWS (6c7a0276-dd94-42b8-9712-0b5124910c4d)] -> css selector: input#passwd]
+2017-08-18 12:16:34 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: a.login]
+2017-08-18 12:16:34 INFO  CreateNewAccountUIActions:97 - Entered Email ID for Creating New Account @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#email_create]
+2017-08-18 12:16:35 INFO  CreateNewAccountUIActions:101 - Clicked On Submit Button To Create New Account @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: button#SubmitCreate]
+2017-08-18 12:16:35 INFO  SignInUIActions:20 - Clicked On Sign-In Button 
+2017-08-18 12:16:35 INFO  SignInUIActions:47 - Clicked On Women Category 
+2017-08-18 12:16:36 INFO  CreateNewAccountUIActions:21 - Clicked on Title @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#id_gender1]
+2017-08-18 12:16:37 INFO  CreateNewAccountUIActions:25 - Entered First Name @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#customer_firstname]
+2017-08-18 12:16:37 INFO  CreateNewAccountUIActions:28 - Entered Last Name @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#customer_lastname]
+2017-08-18 12:16:37 INFO  CreateNewAccountUIActions:32 - Entered Password @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#passwd]
+2017-08-18 12:16:38 INFO  SignInUIActions:27 - Clicked On Discover Out Stores Button 
+2017-08-18 12:16:38 INFO  CreateNewAccountUIActions:35 - Day Selected @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: select#days]
+2017-08-18 12:16:39 INFO  CreateNewAccountUIActions:40 - Month Selected @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: select#months]
+2017-08-18 12:16:39 INFO  CreateNewAccountUIActions:45 - Year Selected @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: select#years]
+2017-08-18 12:16:39 INFO  CreateNewAccountUIActions:48 - Entered Company Name @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#company]
+2017-08-18 12:16:39 INFO  CreateNewAccountUIActions:51 - Entered Address Line 1 @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#address1]
+2017-08-18 12:16:40 INFO  CreateNewAccountUIActions:55 - Entered Addres Line 2 @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#address2]
+2017-08-18 12:16:40 INFO  CreateNewAccountUIActions:58 - Entered City @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#city]
+2017-08-18 12:16:40 INFO  CreateNewAccountUIActions:62 - Selected State @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: select#id_state]
+2017-08-18 12:16:40 INFO  CreateNewAccountUIActions:66 - Entered Zip Code @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#postcode]
+2017-08-18 12:16:41 INFO  CreateNewAccountUIActions:70 - Selected Country @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: select#id_country]
+2017-08-18 12:16:41 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[FirefoxDriver: firefox on WINDOWS (9ca9d77a-0f13-414c-92e0-ff8bf4ec3af1)] -> css selector: a.login]
+2017-08-18 12:16:41 INFO  SignInUIActions:15 - Entered Email ID to SignIn @:[[FirefoxDriver: firefox on WINDOWS (9ca9d77a-0f13-414c-92e0-ff8bf4ec3af1)] -> css selector: input#email]
+2017-08-18 12:16:41 INFO  SignInUIActions:35 - Entered Store Location @:[[FirefoxDriver: firefox on WINDOWS (6c7a0276-dd94-42b8-9712-0b5124910c4d)] -> css selector: input#addressInput]
+2017-08-18 12:16:41 INFO  SignInUIActions:18 - Entered Password to SignIn @:[[FirefoxDriver: firefox on WINDOWS (9ca9d77a-0f13-414c-92e0-ff8bf4ec3af1)] -> css selector: input#passwd]
+2017-08-18 12:16:42 INFO  SignInUIActions:38 - Clicked On Search Button for Location 
+2017-08-18 12:16:42 INFO  CreateNewAccountUIActions:73 - Entered Additioanl Information @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: textarea#other]
+2017-08-18 12:16:43 INFO  CreateNewAccountUIActions:76 - Entered Home Phone @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#phone]
+2017-08-18 12:16:43 INFO  CreateNewAccountUIActions:79 - Entered Mobile Phone @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#phone_mobile]
+2017-08-18 12:16:43 INFO  TestCase02:95 - Store Name Verified In Search Results as:Pembroke Pines
+2017-08-18 12:16:43 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============
+2017-08-18 12:16:43 INFO  CreateNewAccountUIActions:82 - Entered Address Alias @:[[FirefoxDriver: firefox on WINDOWS (d750ae07-1a26-499a-99f0-72635a4e3553)] -> css selector: input#alias]
+2017-08-18 12:16:44 INFO  SignInUIActions:20 - Clicked On Sign-In Button 
+2017-08-18 12:16:44 INFO  SignInUIActions:47 - Clicked On Women Category 
+2017-08-18 12:16:46 INFO  CreateNewAccountUIActions:91 - Clicked on Register Button To Create New Account
+2017-08-18 12:16:46 INFO  TestCase01:94 - Welcome Message Verified Successfully as :Welcome to your account. Here you can manage all of your personal information and orders. @:MyAccountPageObjects.getWelcomeMessage(driver)
+2017-08-18 12:16:46 INFO  TestCase01:95 - User was Able to Create Account Successfully @:testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath
+2017-08-18 12:16:46 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============
+2017-08-18 12:16:47 INFO  SignInUIActions:27 - Clicked On Discover Out Stores Button 
+2017-08-18 12:16:50 INFO  SignInUIActions:35 - Entered Store Location @:[[FirefoxDriver: firefox on WINDOWS (9ca9d77a-0f13-414c-92e0-ff8bf4ec3af1)] -> css selector: input#addressInput]
+2017-08-18 12:16:50 INFO  SignInUIActions:38 - Clicked On Search Button for Location 
+2017-08-18 12:16:52 INFO  TestCase02:95 - Store Name Verified In Search Results as:Pembroke Pines
+2017-08-18 12:16:52 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============
+2017-08-18 12:16:57 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: a.login]
+2017-08-18 12:16:57 INFO  CreateNewAccountUIActions:97 - Entered Email ID for Creating New Account @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#email_create]
+2017-08-18 12:16:57 INFO  CreateNewAccountUIActions:101 - Clicked On Submit Button To Create New Account @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: button#SubmitCreate]
+2017-08-18 12:16:59 INFO  CreateNewAccountUIActions:21 - Clicked on Title @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#id_gender1]
+2017-08-18 12:16:59 INFO  CreateNewAccountUIActions:25 - Entered First Name @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#customer_firstname]
+2017-08-18 12:16:59 INFO  CreateNewAccountUIActions:28 - Entered Last Name @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#customer_lastname]
+2017-08-18 12:16:59 INFO  CreateNewAccountUIActions:32 - Entered Password @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#passwd]
+2017-08-18 12:17:00 INFO  CreateNewAccountUIActions:35 - Day Selected @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: select#days]
+2017-08-18 12:17:00 INFO  CreateNewAccountUIActions:40 - Month Selected @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: select#months]
+2017-08-18 12:17:00 INFO  CreateNewAccountUIActions:45 - Year Selected @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: select#years]
+2017-08-18 12:17:00 INFO  CreateNewAccountUIActions:48 - Entered Company Name @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#company]
+2017-08-18 12:17:01 INFO  CreateNewAccountUIActions:51 - Entered Address Line 1 @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#address1]
+2017-08-18 12:17:01 INFO  CreateNewAccountUIActions:55 - Entered Addres Line 2 @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#address2]
+2017-08-18 12:17:01 INFO  CreateNewAccountUIActions:58 - Entered City @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#city]
+2017-08-18 12:17:01 INFO  CreateNewAccountUIActions:62 - Selected State @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: select#id_state]
+2017-08-18 12:17:01 INFO  CreateNewAccountUIActions:66 - Entered Zip Code @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#postcode]
+2017-08-18 12:17:01 INFO  CreateNewAccountUIActions:70 - Selected Country @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: select#id_country]
+2017-08-18 12:17:01 INFO  CreateNewAccountUIActions:73 - Entered Additioanl Information @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: textarea#other]
+2017-08-18 12:17:01 INFO  CreateNewAccountUIActions:76 - Entered Home Phone @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#phone]
+2017-08-18 12:17:02 INFO  CreateNewAccountUIActions:79 - Entered Mobile Phone @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#phone_mobile]
+2017-08-18 12:17:02 INFO  CreateNewAccountUIActions:82 - Entered Address Alias @:[[FirefoxDriver: firefox on WINDOWS (bc485f15-b171-4685-85be-5556146224bf)] -> css selector: input#alias]
+2017-08-18 12:17:04 INFO  CreateNewAccountUIActions:91 - Clicked on Register Button To Create New Account
+2017-08-18 12:17:04 INFO  TestCase01:94 - Welcome Message Verified Successfully as :Welcome to your account. Here you can manage all of your personal information and orders. @:MyAccountPageObjects.getWelcomeMessage(driver)
+2017-08-18 12:17:04 INFO  TestCase01:95 - User was Able to Create Account Successfully @:testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath
+2017-08-18 12:17:04 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============

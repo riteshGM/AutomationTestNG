@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_07.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_07.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_11.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_11.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_13.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_13.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_16.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_16.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_17.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_17.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_23.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_23.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_24.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_24.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_24.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_24.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_26.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_26.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30027" started-at="2017-09-06T11:20:57Z" finished-at="2017-09-06T11:21:27Z">
+    <groups>
+    </groups>
+    <test name="AutomationTest" duration-ms="29070" started-at="2017-09-06T11:20:57Z" finished-at="2017-09-06T11:21:26Z">
+      <class name="com.ibm.test.TestCase01">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.ibm.test.TestCase01@6ad5c04e]" name="setUP" is-config="true" duration-ms="4409" started-at="2017-09-06T16:50:57Z" finished-at="2017-09-06T16:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath()[pri:0, instance:com.ibm.test.TestCase01@6ad5c04e]" name="testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath" duration-ms="24083" started-at="2017-09-06T16:51:02Z" finished-at="2017-09-06T16:51:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_11.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_11.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_16.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_16.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_17.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_17.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_23.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_23.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_26.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_26.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath -->
+        <test-method status="PASS" signature="beforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.ibm.test.TestCase01@6ad5c04e]" name="beforeTestMethod" is-config="true" duration-ms="0" started-at="2017-09-06T16:51:02Z" finished-at="2017-09-06T16:51:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ibm.test.TestCase01.testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="rollOff()[pri:0, instance:com.ibm.test.TestCase01@6ad5c04e]" name="rollOff" is-config="true" duration-ms="577" started-at="2017-09-06T16:51:26Z" finished-at="2017-09-06T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rollOff -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.ibm.test.TestCase01@6ad5c04e]" name="afterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-06T16:51:26Z" finished-at="2017-09-06T16:51:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath status=SUCCESS method=TestCase01.testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath()[pri:0, instance:com.ibm.test.TestCase01@6ad5c04e] output=<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_11.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath_06_09_2017_04_51_11.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+      </class> <!-- com.ibm.test.TestCase01 -->
+    </test> <!-- AutomationTest -->
+    <test name="AutomationTest01" duration-ms="30027" started-at="2017-09-06T11:20:57Z" finished-at="2017-09-06T11:21:27Z">
+      <class name="com.ibm.test.TestCase02">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.ibm.test.TestCase02@11531931]" name="setUP" is-config="true" duration-ms="4409" started-at="2017-09-06T16:50:57Z" finished-at="2017-09-06T16:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="testCase02_VerifyUserIsAbleToSearchStore()[pri:0, instance:com.ibm.test.TestCase02@11531931]" name="testCase02_VerifyUserIsAbleToSearchStore" duration-ms="25007" started-at="2017-09-06T16:51:02Z" finished-at="2017-09-06T16:51:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_07.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_07.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_13.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_13.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_24.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_24.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_24.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_24.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase02_VerifyUserIsAbleToSearchStore -->
+        <test-method status="PASS" signature="beforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.ibm.test.TestCase02@11531931]" name="beforeTestMethod" is-config="true" duration-ms="0" started-at="2017-09-06T16:51:02Z" finished-at="2017-09-06T16:51:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ibm.test.TestCase02.testCase02_VerifyUserIsAbleToSearchStore()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="rollOff()[pri:0, instance:com.ibm.test.TestCase02@11531931]" name="rollOff" is-config="true" duration-ms="594" started-at="2017-09-06T16:51:27Z" finished-at="2017-09-06T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rollOff -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.ibm.test.TestCase02@11531931]" name="afterTestMethod" is-config="true" duration-ms="0" started-at="2017-09-06T16:51:27Z" finished-at="2017-09-06T16:51:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase02_VerifyUserIsAbleToSearchStore status=SUCCESS method=TestCase02.testCase02_VerifyUserIsAbleToSearchStore()[pri:0, instance:com.ibm.test.TestCase02@11531931] output=<a href='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_07.png'> <img src='C:\Users\IBM_ADMIN\workspace\AutomationTestNG\src\screenshots\success_screenshots\testCase02_VerifyUserIsAbleToSearchStore_06_09_2017_04_51_07.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="rollOffSuiteCompletion()[pri:0, instance:com.ibm.test.TestCase02@11531931]" name="rollOffSuiteCompletion" is-config="true" duration-ms="1" started-at="2017-09-06T16:51:27Z" finished-at="2017-09-06T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rollOffSuiteCompletion -->
+      </class> <!-- com.ibm.test.TestCase02 -->
+    </test> <!-- AutomationTest01 -->
+  </suite> <!-- Suite -->
+</testng-results>

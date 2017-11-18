@@ -1,0 +1,69 @@
+2017-08-16 16:49:21 INFO  TestBase:103 - Browser Name Retrieved as :chrome
+2017-08-16 16:49:21 INFO  TestBase:103 - Browser Name Retrieved as :chrome
+2017-08-16 16:49:22 ERROR TestBase:264 - Exception Occurred in Opening BroswerUnable to parse remote response: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<title>Error 500 Server Error</title>
+</head>
+<body><h2>HTTP ERROR 500</h2>
+<p>Problem accessing /wd/hub/session. Reason:
+<pre>    Server Error</pre></p><h3>Caused by:</h3><pre>java.lang.NullPointerException
+	at com.google.gson.JsonPrimitive.isPrimitiveOrString(JsonPrimitive.java:278)
+	at com.google.gson.JsonPrimitive.setValue(JsonPrimitive.java:101)
+	at com.google.gson.JsonPrimitive.&lt;init&gt;(JsonPrimitive.java:65)
+	at org.openqa.selenium.remote.server.ExceptionHandler.lambda$execute$0(ExceptionHandler.java:82)
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.collect(Unknown Source)
+	at org.openqa.selenium.remote.server.ExceptionHandler.execute(ExceptionHandler.java:88)
+	at org.openqa.selenium.remote.server.WebDriverServlet.handle(WebDriverServlet.java:247)
+	at org.openqa.selenium.remote.server.WebDriverServlet.doPost(WebDriverServlet.java:151)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at org.openqa.selenium.remote.server.WebDriverServlet.service(WebDriverServlet.java:111)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.seleniumhq.jetty9.servlet.ServletHolder.handle(ServletHolder.java:841)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doHandle(ServletHandler.java:535)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:143)
+	at org.seleniumhq.jetty9.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:190)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doHandle(ContextHandler.java:1253)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:168)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:166)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doScope(ContextHandler.java:1155)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.Server.handle(Server.java:564)
+	at org.seleniumhq.jetty9.server.HttpChannel.handle(HttpChannel.java:317)
+	at org.seleniumhq.jetty9.server.HttpConnection.onFillable(HttpConnection.java:251)
+	at org.seleniumhq.jetty9.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:279)
+	at org.seleniumhq.jetty9.io.FillInterest.fillable(FillInterest.java:110)
+	at org.seleniumhq.jetty9.io.ChannelEndPoint$2.run(ChannelEndPoint.java:124)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:672)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:590)
+	at java.lang.Thread.run(Unknown Source)
+</pre>
+<hr><a href="http://eclipse.org/jetty">Powered by Jetty:// 9.4.5.v20170502</a><hr/>
+
+</body>
+</html>
+
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:00:22.093Z'
+System info: host: 'IBM681-R9WCGFW', ip: '9.195.64.143', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver
+2017-08-16 16:49:23 INFO  TestBase:254 - Value of WebDriver in TestBase RemoteWebDriver: chrome on XP (00c1e89a02ae25c8cb7de21551f1dd02)
+2017-08-16 16:49:33 INFO  CreateNewAccountUIActions:109 - Clicked On Sign In Button From Home Page @:[[RemoteWebDriver: chrome on XP (00c1e89a02ae25c8cb7de21551f1dd02)] -> css selector: a.login]
+2017-08-16 16:49:34 INFO  SignInUIActions:17 - Entered Email ID to SignIn @:[[RemoteWebDriver: chrome on XP (00c1e89a02ae25c8cb7de21551f1dd02)] -> css selector: input#email]
+2017-08-16 16:49:34 INFO  SignInUIActions:20 - Entered Password to SignIn @:[[RemoteWebDriver: chrome on XP (00c1e89a02ae25c8cb7de21551f1dd02)] -> css selector: input#passwd]
+2017-08-16 16:49:37 INFO  SignInUIActions:22 - Clicked On Sign-In Button 
+2017-08-16 16:49:39 INFO  SignInUIActions:49 - Clicked On Women Category 
+2017-08-16 16:49:42 INFO  SignInUIActions:29 - Clicked On Discover Out Stores Button 
+2017-08-16 16:49:42 INFO  SignInUIActions:37 - Entered Store Location @:[[RemoteWebDriver: chrome on XP (00c1e89a02ae25c8cb7de21551f1dd02)] -> css selector: input#addressInput]
+2017-08-16 16:49:43 INFO  SignInUIActions:40 - Clicked On Search Button for Location 
+2017-08-16 16:49:43 INFO  TestCase02:95 - Store Name Verified In Search Results as:Pembroke Pines
+2017-08-16 16:49:43 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============

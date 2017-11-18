@@ -1,0 +1,61 @@
+2017-08-22 14:08:30 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 14:08:30 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 14:08:30 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 14:08:30 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 14:08:33 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (05e8c5fe-8baa-4199-967d-c217ccd3352c)
+2017-08-22 14:08:33 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (de69de18-66f6-4b74-b4e5-1b87b392cc5c)
+2017-08-22 14:08:33 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (c3a14050-ff0a-4a02-ad3d-ecd3af0e5aef)
+2017-08-22 14:08:33 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 14:08:33 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 14:08:33 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 14:08:33 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution
+2017-08-22 14:08:33 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (4f9683b8-182d-407e-ad48-ebce6ea2d2d1)
+2017-08-22 14:08:33 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 14:08:33 ERROR TestBase:466 - Failure Occured in Method @:testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath
+2017-08-22 14:08:33 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============
+2017-08-22 14:08:40 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (de69de18-66f6-4b74-b4e5-1b87b392cc5c)] -> css selector: a.login]
+2017-08-22 14:08:43 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (4f9683b8-182d-407e-ad48-ebce6ea2d2d1)] -> css selector: a.login]
+2017-08-22 14:08:44 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (05e8c5fe-8baa-4199-967d-c217ccd3352c)] -> css selector: a.login]
+2017-08-22 14:08:45 INFO  CreateNewAccountUIActions:97 - Entered Email ID for Creating New Account @:[[InternetExplorerDriver: internet explorer on WINDOWS (4f9683b8-182d-407e-ad48-ebce6ea2d2d1)] -> css selector: input#email_create]
+2017-08-22 14:08:46 INFO  CreateNewAccountUIActions:101 - Clicked On Submit Button To Create New Account @:[[InternetExplorerDriver: internet explorer on WINDOWS (4f9683b8-182d-407e-ad48-ebce6ea2d2d1)] -> css selector: button#SubmitCreate]
+2017-08-22 14:08:47 INFO  SignInUIActions:15 - Entered Email ID to SignIn @:[[InternetExplorerDriver: internet explorer on WINDOWS (05e8c5fe-8baa-4199-967d-c217ccd3352c)] -> css selector: input#email]
+2017-08-22 14:08:50 INFO  SignInUIActions:18 - Entered Password to SignIn @:[[InternetExplorerDriver: internet explorer on WINDOWS (05e8c5fe-8baa-4199-967d-c217ccd3352c)] -> css selector: input#passwd]
+2017-08-22 14:08:54 INFO  SignInUIActions:20 - Clicked On Sign-In Button 
+2017-08-22 14:08:59 INFO  SignInUIActions:47 - Clicked On Women Category 
+2017-08-22 14:09:12 ERROR TestBase:482 - Exception Occurred ReSearching Element :By.cssSelector: input#email
+2017-08-22 14:09:12 INFO  TestBase:372 - Retrying To Find Element with location By.cssSelector: input#email
+2017-08-22 14:09:14 INFO  SignInUIActions:27 - Clicked On Discover Out Stores Button 
+2017-08-22 14:09:16 ERROR TestBase:482 - Exception Occurred ReSearching Element :By.cssSelector: input#id_gender1
+2017-08-22 14:09:16 INFO  TestBase:372 - Retrying To Find Element with location By.cssSelector: input#id_gender1
+2017-08-22 14:09:24 INFO  SignInUIActions:35 - Entered Store Location @:[[InternetExplorerDriver: internet explorer on WINDOWS (05e8c5fe-8baa-4199-967d-c217ccd3352c)] -> css selector: input#addressInput]
+2017-08-22 14:09:27 INFO  SignInUIActions:38 - Clicked On Search Button for Location 
+2017-08-22 14:09:31 INFO  TestCase02:96 - Store Name Verified In Search Results as:Pembroke Pines
+2017-08-22 14:09:31 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============
+2017-08-22 14:09:42 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#1
+2017-08-22 14:09:47 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#1
+2017-08-22 14:10:14 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#2
+2017-08-22 14:10:18 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#2
+2017-08-22 14:10:45 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#3
+2017-08-22 14:10:49 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#3
+2017-08-22 14:11:16 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#4
+2017-08-22 14:11:20 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#4
+2017-08-22 14:13:26 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#5
+2017-08-22 14:13:26 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#5
+2017-08-22 14:13:57 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#6
+2017-08-22 14:13:58 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#6
+2017-08-22 14:14:28 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#7
+2017-08-22 14:14:29 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#7
+2017-08-22 14:15:00 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#8
+2017-08-22 14:15:00 INFO  TestBase:381 - Waiting for Element to Appear on Page..Retry#8
+2017-08-22 14:15:01 ERROR TestBase:393 - Could Not Find Element with Location By.cssSelector: input#id_gender1
+2017-08-22 14:15:01 ERROR TestBase:394 - Terminating Current Test Case Execution . .
+2017-08-22 14:15:01 ERROR TestBase:395 - Broswer Session Closed
+2017-08-22 14:15:01 INFO  TestCase01:103 - Exception Has Occurred During Test Case Execution
+2017-08-22 14:15:01 ERROR TestBase:393 - Could Not Find Element with Location By.cssSelector: input#email
+2017-08-22 14:15:01 ERROR TestBase:394 - Terminating Current Test Case Execution . .
+2017-08-22 14:15:01 ERROR TestBase:395 - Broswer Session Closed
+2017-08-22 14:15:01 INFO  TestCase02:100 - Exception Occurred During Test Case Executionnull
+2017-08-22 14:15:01 ERROR TestBase:466 - Failure Occured in Method @:testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath
+2017-08-22 14:15:01 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============
+2017-08-22 14:15:02 ERROR TestBase:466 - Failure Occured in Method @:testCase02_VerifyUserIsAbleToSearchStore
+2017-08-22 14:15:02 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============

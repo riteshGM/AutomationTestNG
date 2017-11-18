@@ -1,0 +1,39 @@
+2017-08-16 11:52:19 INFO  TestBase:103 - Browser Name Retrieved as :chrome
+2017-08-16 11:52:19 INFO  TestBase:103 - Browser Name Retrieved as :chrome
+2017-08-16 11:52:22 INFO  TestBase:228 - Value of WebDriver in TestBase ChromeDriver: chrome on XP (30891db2c8741a53494feff4ac0a67de)
+2017-08-16 11:52:22 INFO  TestBase:228 - Value of WebDriver in TestBase ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)
+2017-08-16 11:52:31 INFO  CreateNewAccountUIActions:109 - Clicked On Sign In Button From Home Page @:[[ChromeDriver: chrome on XP (30891db2c8741a53494feff4ac0a67de)] -> css selector: a.login]
+2017-08-16 11:52:32 INFO  SignInUIActions:17 - Entered Email ID to SignIn @:[[ChromeDriver: chrome on XP (30891db2c8741a53494feff4ac0a67de)] -> css selector: input#email]
+2017-08-16 11:52:32 INFO  CreateNewAccountUIActions:109 - Clicked On Sign In Button From Home Page @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: a.login]
+2017-08-16 11:52:32 INFO  SignInUIActions:20 - Entered Password to SignIn @:[[ChromeDriver: chrome on XP (30891db2c8741a53494feff4ac0a67de)] -> css selector: input#passwd]
+2017-08-16 11:52:33 INFO  CreateNewAccountUIActions:98 - Entered Email ID for Creating New Account @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#email_create]
+2017-08-16 11:52:33 INFO  CreateNewAccountUIActions:102 - Clicked On Submit Button To Create New Account @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: button#SubmitCreate]
+2017-08-16 11:52:34 INFO  SignInUIActions:22 - Clicked On Sign-In Button 
+2017-08-16 11:52:34 INFO  CreateNewAccountUIActions:22 - Clicked on Title @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#id_gender1]
+2017-08-16 11:52:35 INFO  CreateNewAccountUIActions:26 - Entered First Name @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#customer_firstname]
+2017-08-16 11:52:35 INFO  CreateNewAccountUIActions:29 - Entered Last Name @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#customer_lastname]
+2017-08-16 11:52:35 INFO  CreateNewAccountUIActions:33 - Entered Password @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#passwd]
+2017-08-16 11:52:36 INFO  CreateNewAccountUIActions:36 - Day Selected @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: select#days]
+2017-08-16 11:52:36 INFO  CreateNewAccountUIActions:41 - Month Selected @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: select#months]
+2017-08-16 11:52:36 INFO  SignInUIActions:49 - Clicked On Women Category 
+2017-08-16 11:52:36 INFO  CreateNewAccountUIActions:46 - Year Selected @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: select#years]
+2017-08-16 11:52:36 INFO  CreateNewAccountUIActions:49 - Entered Company Name @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#company]
+2017-08-16 11:52:37 INFO  CreateNewAccountUIActions:52 - Entered Address Line 1 @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#address1]
+2017-08-16 11:52:38 INFO  CreateNewAccountUIActions:56 - Entered Addres Line 2 @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#address2]
+2017-08-16 11:52:38 INFO  CreateNewAccountUIActions:59 - Entered City @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#city]
+2017-08-16 11:52:38 INFO  CreateNewAccountUIActions:63 - Selected State @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: select#id_state]
+2017-08-16 11:52:38 INFO  CreateNewAccountUIActions:67 - Entered Zip Code @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#postcode]
+2017-08-16 11:52:38 INFO  CreateNewAccountUIActions:71 - Selected Country @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: select#id_country]
+2017-08-16 11:52:39 INFO  SignInUIActions:29 - Clicked On Discover Out Stores Button 
+2017-08-16 11:52:39 INFO  CreateNewAccountUIActions:74 - Entered Additioanl Information @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: textarea#other]
+2017-08-16 11:52:39 INFO  CreateNewAccountUIActions:77 - Entered Home Phone @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#phone]
+2017-08-16 11:52:39 INFO  CreateNewAccountUIActions:80 - Entered Mobile Phone @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#phone_mobile]
+2017-08-16 11:52:39 INFO  SignInUIActions:37 - Entered Store Location @:[[ChromeDriver: chrome on XP (30891db2c8741a53494feff4ac0a67de)] -> css selector: input#addressInput]
+2017-08-16 11:52:40 INFO  CreateNewAccountUIActions:83 - Entered Address Alias @:[[ChromeDriver: chrome on XP (5b1608b993792bc832ac9ea3f8b0445f)] -> css selector: input#alias]
+2017-08-16 11:52:40 INFO  SignInUIActions:40 - Clicked On Search Button for Location 
+2017-08-16 11:52:42 ERROR TestBase:466 - Failure Occured in Method @:testCase02_VerifyUserIsAbleToSearchStore
+2017-08-16 11:52:42 INFO  TestCase02:44 - =========== Execution Finished for Test Case02 =============
+2017-08-16 11:52:42 INFO  CreateNewAccountUIActions:92 - Clicked on Register Button To Create New Account
+2017-08-16 11:52:42 INFO  TestCase01:94 - Welcome Message Verified Successfully as :Welcome to your account. Here you can manage all of your personal information and orders. @:MyAccountPageObjects.getWelcomeMessage(driver)
+2017-08-16 11:52:42 INFO  TestCase01:95 - User was Able to Create Account Successfully @:testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath
+2017-08-16 11:52:43 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============

@@ -1,0 +1,60 @@
+2017-08-22 14:29:06 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 14:29:06 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 14:29:06 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 14:29:06 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-22 14:29:09 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (59e9c5a6-82a2-459c-b5a3-41c479c5a49d)
+2017-08-22 14:29:09 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 14:29:09 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (fb774f89-1efe-4d61-bab8-9f01055fce09)
+2017-08-22 14:29:09 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 14:29:09 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)
+2017-08-22 14:29:09 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 14:29:09 INFO  TestBase:128 - Value of WebDriver in TestBase InternetExplorerDriver: internet explorer on WINDOWS (f835c7dc-f03d-4dcc-8b3e-1431d5803099)
+2017-08-22 14:29:09 INFO  TestBase:130 - Test is Running in Local Machine
+2017-08-22 14:29:09 INFO  TestCase02:100 - Exception Occurred During Test Case Executionorg.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: 'unknown', revision: '5234b32', time: '2017-03-10 09:00:17 -0800'
+System info: host: 'IBM681-R9WCGFW', ip: '9.195.65.247', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:31748/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=dismiss}]
+Session ID: 59e9c5a6-82a2-459c-b5a3-41c479c5a49d
+2017-08-22 14:29:19 INFO  TestCase02:100 - Exception Occurred During Test Case Executionorg.openqa.selenium.NoSuchWindowException: Unable to find element on closed window (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: 'unknown', revision: '5234b32', time: '2017-03-10 09:00:17 -0800'
+System info: host: 'IBM681-R9WCGFW', ip: '9.195.65.247', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:21354/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=dismiss}]
+Session ID: f835c7dc-f03d-4dcc-8b3e-1431d5803099
+*** Element info: {Using=css selector, value=a.login}
+2017-08-22 14:29:20 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (fb774f89-1efe-4d61-bab8-9f01055fce09)] -> css selector: a.login]
+2017-08-22 14:29:20 INFO  TestCase01:103 - Exception Has Occurred During Test Case Executionorg.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: 'unknown', revision: '5234b32', time: '2017-03-10 09:00:17 -0800'
+System info: host: 'IBM681-R9WCGFW', ip: '9.195.65.247', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{se:ieOptions={browserAttachTimeout=0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, ignoreZoomSetting=false, ie.fileUploadDialogTimeout=3000, ie.useLegacyFileUploadDialogHandling=false, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, initialBrowserUrl=http://localhost:21083/, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true}, browserName=internet explorer, pageLoadStrategy=normal, javascriptEnabled=true, version=11, platform=WINDOWS, unexpectedAlertBehaviour=dismiss}]
+Session ID: fb774f89-1efe-4d61-bab8-9f01055fce09
+2017-08-22 14:29:25 INFO  CreateNewAccountUIActions:108 - Clicked On Sign In Button From Home Page @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: a.login]
+2017-08-22 14:29:27 INFO  CreateNewAccountUIActions:97 - Entered Email ID for Creating New Account @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#email_create]
+2017-08-22 14:29:29 INFO  CreateNewAccountUIActions:101 - Clicked On Submit Button To Create New Account @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: button#SubmitCreate]
+2017-08-22 14:29:33 INFO  CreateNewAccountUIActions:21 - Clicked on Title @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#id_gender1]
+2017-08-22 14:29:37 INFO  CreateNewAccountUIActions:25 - Entered First Name @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#customer_firstname]
+2017-08-22 14:29:39 INFO  CreateNewAccountUIActions:28 - Entered Last Name @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#customer_lastname]
+2017-08-22 14:29:41 INFO  CreateNewAccountUIActions:32 - Entered Password @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#passwd]
+2017-08-22 14:29:42 INFO  CreateNewAccountUIActions:35 - Day Selected @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: select#days]
+2017-08-22 14:29:44 INFO  CreateNewAccountUIActions:40 - Month Selected @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: select#months]
+2017-08-22 14:29:45 INFO  CreateNewAccountUIActions:45 - Year Selected @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: select#years]
+2017-08-22 14:29:47 INFO  CreateNewAccountUIActions:48 - Entered Company Name @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#company]
+2017-08-22 14:29:52 INFO  CreateNewAccountUIActions:51 - Entered Address Line 1 @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#address1]
+2017-08-22 14:29:55 INFO  CreateNewAccountUIActions:55 - Entered Addres Line 2 @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#address2]
+2017-08-22 14:29:56 INFO  CreateNewAccountUIActions:58 - Entered City @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#city]
+2017-08-22 14:29:57 INFO  CreateNewAccountUIActions:62 - Selected State @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: select#id_state]
+2017-08-22 14:29:58 INFO  CreateNewAccountUIActions:66 - Entered Zip Code @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#postcode]
+2017-08-22 14:29:59 INFO  CreateNewAccountUIActions:70 - Selected Country @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: select#id_country]
+2017-08-22 14:30:00 INFO  CreateNewAccountUIActions:73 - Entered Additioanl Information @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: textarea#other]
+2017-08-22 14:30:01 INFO  CreateNewAccountUIActions:76 - Entered Home Phone @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#phone]
+2017-08-22 14:30:02 INFO  CreateNewAccountUIActions:79 - Entered Mobile Phone @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#phone_mobile]
+2017-08-22 14:30:02 INFO  CreateNewAccountUIActions:82 - Entered Address Alias @:[[InternetExplorerDriver: internet explorer on WINDOWS (d1c5a2a1-8a49-4cc8-ac04-99612669dda8)] -> css selector: input#alias]
+2017-08-22 14:30:07 INFO  CreateNewAccountUIActions:91 - Clicked on Register Button To Create New Account
+2017-08-22 14:30:08 INFO  TestCase01:94 - Welcome Message Verified Successfully as :Welcome to your account. Here you can manage all of your personal information and orders. @:MyAccountPageObjects.getWelcomeMessage(driver)
+2017-08-22 14:30:08 INFO  TestCase01:95 - User was Able to Create Account Successfully @:testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath
+2017-08-22 14:30:09 INFO  TestCase01:45 - =========== Execution Finished for Test Case01 =============

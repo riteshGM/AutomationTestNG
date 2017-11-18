@@ -1,0 +1,12 @@
+2017-08-16 18:17:46 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-16 18:17:46 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-16 18:17:46 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-16 18:17:46 INFO  TestBase:103 - Browser Name Retrieved as :internet explorer
+2017-08-16 18:17:54 INFO  TestBase:154 - Test is Running in Remote Machines
+2017-08-16 18:17:54 INFO  TestBase:154 - Test is Running in Remote Machines
+2017-08-16 18:17:54 INFO  TestBase:154 - Test is Running in Remote Machines
+2017-08-16 18:17:54 INFO  TestBase:154 - Test is Running in Remote Machines
+2017-08-16 18:17:54 INFO  TestBase:156 - Value of WebDriver in TestBase RemoteWebDriver: internet explorer on WINDOWS (565fa217-6a34-4b9a-9582-7aaed24ac494)
+2017-08-16 18:17:54 INFO  TestBase:156 - Value of WebDriver in TestBase RemoteWebDriver: internet explorer on WINDOWS (d4dae14d-a6e9-48ba-a1d8-b64e11e87665)
+2017-08-16 18:17:54 INFO  TestBase:156 - Value of WebDriver in TestBase RemoteWebDriver: internet explorer on WINDOWS (5e5f6dc2-4cf1-42bc-a095-84ac695e4544)
+2017-08-16 18:17:54 INFO  TestBase:156 - Value of WebDriver in TestBase RemoteWebDriver: internet explorer on WINDOWS (726efd31-6a82-4bf2-b69a-bd22fd4fffbd)
