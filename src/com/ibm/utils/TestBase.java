@@ -73,11 +73,9 @@ public class TestBase{
 	 }
 	 
 	
-	
-	
 	public WebDriver init(){
 		
-		//Initiaze Date for Log file naming 
+		//Initialize Date for Log file naming 
 		SimpleDateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy-hh-mm-ss");
         System.setProperty("current.date.time", dateFormat.format(new Date()));
       
