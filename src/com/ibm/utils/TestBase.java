@@ -38,7 +38,7 @@ import org.apache.log4j.Logger;
  *
  *
  * TestBase Class Acts As Test Base for Framework. It contains all the common methods() which will be utilized by all the Test Cases throughout Execution
- * E.g. Tasks like WebDriver Initialisation, Taking ScreenShots, Read-Write from property/flat files.
+ * E.g. Tasks like WebDriver Initialization, Taking ScreenShots, Read-Write from property/flat files.
  * Define all you commonly used method() in TestBase Class and extend all your TestCase Java Classes to TestBase to use the utility methods from TestBase Class
  *
  */
@@ -59,6 +59,7 @@ public class TestBase{
 	
 	
 	
+	
 	 public  WebDriver getDriver() {
 			return driver;
 		}
@@ -72,11 +73,9 @@ public class TestBase{
 	 }
 	 
 	
-	
-	
 	public WebDriver init(){
 		
-		//Initiaze Date for Log file naming 
+		//Initialize Date for Log file naming 
 		SimpleDateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy-hh-mm-ss");
         System.setProperty("current.date.time", dateFormat.format(new Date()));
       
@@ -85,9 +84,9 @@ public class TestBase{
 		String log4jConfPath = "log4j.properties";
 	  	PropertyConfigurator.configure(log4jConfPath);
 	  
-		//Initialise Result for Test Case, This will Hold current Pass/Fail Value of @Test
+		//Initialize Result for Test Case, This will Hold current Pass/Fail Value of @Test
 	  	Result = Reporter.getCurrentTestResult();
-	  	//Initialise Driver
+	  	//Initialize Driver
 	  	openBrowser();
 		
 		return driver;
@@ -490,7 +489,7 @@ public static WebElement explicitWaitHelper(WebDriver driver, By locator, int se
 	public void highlightMe(WebDriver driver, WebElement element) throws InterruptedException {
 		// Creating JavaScriptExecuter Interface
 		JavascriptExecutor js = (JavascriptExecutor) driver;
-		// Execute javascript
+		// Execute java script
 		js.executeScript("arguments[0].style.border='4px solid yellow'", element);
 		Thread.sleep(3000);
 		js.executeScript("arguments[0].style.border=''", element);

@@ -3,15 +3,17 @@ package com.ibm.pom;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
 import com.ibm.utils.TestBase;
 
 
 
 public class CreateAccountPageObjects {
+	
 
 	public static WebElement getTitleCheckBox(WebDriver driver) {
 		// TODO Auto-generated method stub
+		
+		
 		By locator = By.cssSelector("input#id_gender1");
 		return TestBase.explicitFindElement(locator, driver);
 	}
