@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
-  <test name="AutomationTest01(failed)" parallel="tests">
-    <classes>
-      <class name="com.ibm.test.TestCase01">
-        <methods>
-          <include name="afterTestMethod"/>
-          <include name="setUP"/>
-          <include name="beforeTestMethod"/>
-        </methods>
-      </class> <!-- com.ibm.test.TestCase01 -->
-      <class name="com.ibm.test.TestCase02">
-        <methods>
-          <include name="testCase02_VerifyUserIsAbleToSearchStore"/>
-          <include name="beforeTestMethod"/>
-          <include name="setUP"/>
-          <include name="afterTestMethod"/>
-        </methods>
-      </class> <!-- com.ibm.test.TestCase02 -->
-    </classes>
-  </test> <!-- AutomationTest01(failed) -->
-  <test name="AutomationTest(failed)" parallel="tests">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
       <class name="com.ibm.test.TestCase01">
         <methods>
@@ -30,13 +11,6 @@
           <include name="testCase01_VerifyUserIsAbleToCreateAnAccountHappyPath"/>
         </methods>
       </class> <!-- com.ibm.test.TestCase01 -->
-      <class name="com.ibm.test.TestCase02">
-        <methods>
-          <include name="beforeTestMethod"/>
-          <include name="setUP"/>
-          <include name="afterTestMethod"/>
-        </methods>
-      </class> <!-- com.ibm.test.TestCase02 -->
     </classes>
-  </test> <!-- AutomationTest(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

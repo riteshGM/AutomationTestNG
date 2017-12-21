@@ -11,6 +11,7 @@ import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.List;
 import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
@@ -56,7 +57,6 @@ public class TestBase{
 	public ITestResult Result;
 	public static int explicitWaitTimer = Integer.parseInt(getData("explicitWaitTimer"));
 	public static final Logger log = Logger.getLogger(TestBase.class.getName());
-	
 	
 	
 	
@@ -493,6 +493,16 @@ public static WebElement explicitWaitHelper(WebDriver driver, By locator, int se
 		js.executeScript("arguments[0].style.border='4px solid yellow'", element);
 		Thread.sleep(3000);
 		js.executeScript("arguments[0].style.border=''", element);
+	}
+	
+public static <WebElement>List getElementList (String locator, String action, String returnCount, int count ){
+		
+		
+		
+		
+		
+		return null;
+		
 	}
 	
 }
